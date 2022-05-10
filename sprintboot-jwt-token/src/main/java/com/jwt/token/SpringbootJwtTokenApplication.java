@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SprintbootJwtTokenApplication {
+public class SpringbootJwtTokenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SprintbootJwtTokenApplication.class, args);
+		SpringApplication.run(SpringbootJwtTokenApplication.class, args);
 	}
 
 }

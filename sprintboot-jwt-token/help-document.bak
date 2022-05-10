@@ -1,0 +1,22 @@
+JWT - JSON Web Token
+
+Use - user authorization in web apps
+
+Seesion Token vs JWT Token
+Session Token
+1. Statefull
+2. Store information in server side
+3. Suitable for monolithic application
+
+JWT Token
+1. Stateless
+2. Store information in Client side
+3. Suitable for multi instance and Microservice 
+
+JWT Structure
+1. Header
+2. Payload
+3. Signature
+
+jwt.io - we can get info from token 
+
